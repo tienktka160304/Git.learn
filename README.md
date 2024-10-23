@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 There are some issues but its ok now
 
 It fine now.
+
+By tiendz
